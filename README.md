@@ -1,6 +1,16 @@
 # 100ProgrammingChallanges
 Solving challanges in different languages.
-### Challenges
-00 - Name generator
-01 - Heads/Tails
-02 - 
+
+## Why?
+A programmer must always be looking to learn new things whenever possible, with this intent in mind, I created this repository as a form of registering my exercises and experiments.
+
+## In Python
+### List of Completed Challenges
+- Name generator
+- Heads/Tails
+- Temperature Converter
+- Age Calculator
+
+## In Java
+### List of Completed Challenges
+- SOON
