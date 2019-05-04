@@ -1,5 +1,5 @@
-# 100ProgrammingChallanges
-Solving challanges in different languages.
+# 100ProgrammingChallenges
+Solving challenges in different languages.
 
 ## Why?
 A programmer must always be looking to learn new things whenever possible, with this intent in mind, I created this repository as a form of registering my exercises and experiments.

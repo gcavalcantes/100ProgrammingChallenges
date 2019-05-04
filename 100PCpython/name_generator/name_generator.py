@@ -16,7 +16,7 @@ second_names = {0: "Amaral", 1: "Cavalcanti", 2: "Pimentel", 3: "Bacci", 4: "Per
               5: "Cuerci", 6: "Lima", 7: "Ramos", 8: "Davares", 9: "Ferreira", 10: "Almeida",
               11: "Picon", 12: "Barbosa", 13: "Duque"}
 
-#TODO implement database files with lists of names and substitute the lists in this program
+# TODO implement database files with lists of names and substitute the lists in this program
 
 list_of_names = {}
 
