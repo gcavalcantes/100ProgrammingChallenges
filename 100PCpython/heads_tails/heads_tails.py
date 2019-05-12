@@ -3,6 +3,7 @@ from random import *
 print("========================================================\n"
       + "COIN TOSS SIMULATOR PROGRAM\nBY GABRIEL CAVALCANTE")
 
+
 def coin_toss():
     #coin = {1: "Head", 2: "Tails"}
     finalize = False
@@ -20,7 +21,8 @@ def coin_toss():
             else:
                 print("Coin tossed...\nTAILS. You lose.\n")
 
-        cont = input("Would you like to continue to toss coins? ('y' or 'n')\n")
+        cont = input(
+            "Would you like to continue to toss coins? ('y' or 'n')\n")
         if cont == "n":
             finalize = True
 

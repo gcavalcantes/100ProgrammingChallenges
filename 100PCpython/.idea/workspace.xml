@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7aa4a904-1079-45fe-8ac4-97515477f5c6" name="Default Changelist" comment="" />
+    <list default="true" id="7aa4a904-1079-45fe-8ac4-97515477f5c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/heads_tails/heads_tails.py" beforeDir="false" afterPath="$PROJECT_DIR$/heads_tails/heads_tails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/name_generator/name_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/name_generator/name_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temperature_converter/temperature_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/temperature_converter/temperature_converter.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/age_calculator/age_calc.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -64,7 +68,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SimpleBlackjack" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -118,7 +122,7 @@
     <entry file="file://$PROJECT_DIR$/age_calculator/age_calc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
