@@ -11,6 +11,6 @@ A programmer must always be looking to learn new things whenever possible, with 
 - Temperature Converter
 - Age Calculator
 
-## In Java
+## In C
 ### List of Completed Challenges
-- SOON
+SOON.
