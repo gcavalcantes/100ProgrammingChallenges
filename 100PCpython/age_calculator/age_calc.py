@@ -1,5 +1,5 @@
 '''
-Program to calculate a person's age
+Program to calculate a person's age in senconds
 by Gabriel Cavalcante
 '''
 from datetime import datetime
@@ -8,28 +8,18 @@ from datetime import datetime
 class Calc_age:
     def calc_age(self):
         print("===================================================")
-        print("Program to calculate a person's age or the year they were born.")
+        print("Program to calculate a person's age in seconds.")
 
         exit = False
         while not exit:
 
             # Offers the options finding out a person's age or the year they were born.
             # Makes sure that the option is not in capital letters
-            opt: str = input(
-                "Would you like to find out a person's age (a) or the year they were born (b) ?\n").lower()
-            # If option 'a' is chosen
-            if opt == "a":
-                person_age = self.age()
-                print(
-                    "This person is between {} and {} years of age.".format(person_age-1, person_age))
+            person_age = self.age()
+            print(
+                    "This person is {} seconds old.".format(person_age))
             # If option 'b' is chosen
-            elif opt == "b":
-                born_year = self.year()
-                print("This person was born in {}n".format(born_year))
-            # If the input is incorrect
-            else:
-                print("Option unavailable.")
-
+            
             question: str = input(
                 "Would you like to continue to calculate someone's age? (y/n) \n").lower()
 
@@ -44,15 +34,9 @@ class Calc_age:
         full_date = datetime.now()
         year = int(full_date.year)
         years_old = int(year - year_born)
-        return years_old
-
-    # Function to calculate the year of birth.
-    def year(self):
-        age = input("Whats the person's age? \n")
-        full_date = datetime.now()
-        year = int(full_date.year)
-        born_in = int(year - int(age))
-        return born_in
+        # Calculate age in seconds
+        age_in_seconds = years_old * 365 * 24 * 60 * 60
+        return age_in_seconds
 
     # Calls the main function
     def __init__(self):
