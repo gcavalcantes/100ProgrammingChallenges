@@ -62,5 +62,4 @@ class Calc_age:
 # New instance of the Calc_age class
 calculate_age = Calc_age()
 
-# Calling the main function to run the program
-calculate_age.calc_age()
+# End of the program
