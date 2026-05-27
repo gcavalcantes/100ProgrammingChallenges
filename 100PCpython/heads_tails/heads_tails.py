@@ -1,4 +1,4 @@
-from random import *
+from random import randint
 
 print("========================================================\n"
       + "COIN TOSS SIMULATOR PROGRAM\nBY GABRIEL CAVALCANTE")
